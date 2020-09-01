@@ -1,4 +1,4 @@
-## BLOG POST
+## BLOG POSTS
 * Post1
 [Likelion]
 [HTML 1,2](https://github.com/positive7292/positive7292.github.io/blob/master/first%20try.md)
